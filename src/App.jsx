@@ -35,7 +35,7 @@ const App = () => {
         </div>
 
       ) : (
-        <p>No product</p>
+        <p>No product list</p>
       )}
 
       <Cart cart={cart} setCart={setCart} />
